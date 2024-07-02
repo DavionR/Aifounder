@@ -3,7 +3,6 @@
    font-family: Helvetica, Arial,  sans-serif;
 }
 
-text-
 
 #container { 
     background-color: white;
@@ -28,13 +27,13 @@ text-
     float: left;
 }
 
-#nav seleted {
+#nav.selected {
  font-weight: bold;   
 }
 
 #nav ul {
- list-style: ;
-
+list-style-type: none;
+padding: 0;
 }
 
 #main { 
@@ -46,10 +45,4 @@ text-
     clear: both;
     padding: 10px;
     background-color: #999999;
-    sele
 }
-
-
-
-
-
